@@ -22,9 +22,9 @@ Original code credits go to Coding with Evan
 
 
 
-Features
-Can track any crypto coins
-Can connect to any API (meaning any coin or any API you want really)
+Features:
+Can track any crypto coins-
+Can connect to any API (meaning any coin or any API you want really)-
 You can set the code to refresh whenever you want
 
 
@@ -39,9 +39,9 @@ You can set the code to refresh whenever you want
 
 
 
-Requirements
-Python 3.10+
-requests library
+Requirements:
+Python 3.10+-
+requests library-
 tkinter (included in standard Python)
 
 
@@ -55,7 +55,7 @@ tkinter (included in standard Python)
 
 
 
-Optional (if you want to build a .EXE file from this)
+Optional (if you want to build a .EXE file from this):
 Pyinstaller
 
 
@@ -73,6 +73,6 @@ Pyinstaller
 
 
 
-License
+License:
 
 This project is licensed under the MIT License. See LICENSE for details.
