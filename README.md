@@ -23,8 +23,8 @@ Original code credits go to Coding with Evan
 
 
 Features:
-Can track any crypto coins-
-Can connect to any API (meaning any coin or any API you want really)-
+Can track any crypto coins----
+Can connect to any API (meaning any coin or any API you want really)----
 You can set the code to refresh whenever you want
 
 
@@ -40,8 +40,8 @@ You can set the code to refresh whenever you want
 
 
 Requirements:
-Python 3.10+-
-requests library-
+Python 3.10+----
+requests library----
 tkinter (included in standard Python)
 
 
